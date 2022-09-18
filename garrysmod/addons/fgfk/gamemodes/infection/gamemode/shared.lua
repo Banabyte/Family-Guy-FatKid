@@ -1,9 +1,9 @@
 ﻿ 
 GM.Name = "Infection"
-GM.Author = "swamponions (STEAM_0:0:38422842)"
-GM.Email = "swampservers@gmail.com"
-GM.Website = "https://github.com/swampservers/fatkid"
-GM.variant = LoadInfectionGamemode or "base"
+GM.Author = "zeropoint"
+GM.Email = "wegj1@hotmail.com"
+GM.Website = "https://github.com/Banabyte/Family-Guy-FatKid"
+GM.variant = LoadInfectionGamemode or "fgfk"
 --Start by loading base gamemode
 LoadFolder(GM.FolderName .. "/gamemode/game")
 LoadEntityFolder(GM.FolderName .. "/gamemode/entities")
