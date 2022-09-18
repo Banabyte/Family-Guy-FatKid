@@ -1,0 +1,13 @@
+{
+	"title"		:	"Family Guy FatKid",
+	"type"		:	"gamemode",
+	"tags"		:	[ "fun", "realism" ],
+	"ignore"	:
+	[
+		".git/*",
+		"*.vmf",
+		"*.fgd",
+		"README.md",
+		"LICENSE"
+	]
+}

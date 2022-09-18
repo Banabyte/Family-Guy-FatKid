@@ -1,0 +1,3 @@
+﻿ 
+LoadInfectionGamemode = "duckhunt"
+DeriveGamemode("infection")

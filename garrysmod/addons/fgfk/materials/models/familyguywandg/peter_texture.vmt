@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/familyguywandg/peter_texture"
+	"$nocull" 1
+}

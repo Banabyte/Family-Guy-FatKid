@@ -1,0 +1,9 @@
+"fgfk"
+{
+	"base"		"infection"
+	"title"		"Family Guy FatKid"
+	"maps"		"^fgfk_"
+	"category"	"pvp"
+	"menusystem"	"1"
+	"workshopid"	"2467219933"
+}

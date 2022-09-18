@@ -1,0 +1,2 @@
+﻿ 
+GM.BarricadeBaseHealth = 550

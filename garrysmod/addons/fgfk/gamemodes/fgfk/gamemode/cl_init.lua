@@ -1,0 +1,3 @@
+﻿ 
+LoadInfectionGamemode = "fatkid"
+DeriveGamemode("infection")

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/lois_family_guy/Tex_0483_0_dds"
+	"$color2"			"[0.875 0.875 0.875]"
+	"$lightwarptexture"	"models/lois_family_guy/celshader"
+}
