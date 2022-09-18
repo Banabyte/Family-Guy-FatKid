@@ -1,5 +1,5 @@
 ﻿ 
-resource.AddWorkshop("2467219933") -- Fat Kid gamemode addon
+resource.AddWorkshop("2864449649") -- Fat Kid gamemode addon
 include("sh_load.lua")
 include("shared.lua")
 AddCSLuaFile("sh_load.lua")
